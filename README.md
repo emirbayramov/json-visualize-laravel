@@ -1,4 +1,4 @@
-## Job application test "JSON Visualizer"
+## JSON Visualizer
 ###To install:
 
 
