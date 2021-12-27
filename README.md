@@ -10,6 +10,8 @@
 
 
 ###Setup nginx with auth:
+
+
 ```sudo chmod -R 755 [path to folder]/json-visualize-laravel```
 
 ```sudo chown -R www-data:www-data [path to folder]/json-visualize-laravel```
