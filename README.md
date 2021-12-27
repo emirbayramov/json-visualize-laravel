@@ -2,7 +2,7 @@
 ###To install:
 
 
-```git clone ```
+```git clone https://github.com/emirbayramov/json-visualize-laravel```
 
 ```cd json-visualize-laravel```
 
@@ -12,7 +12,7 @@
 ###Setup nginx with auth:
 ```sudo chmod -R 755 [path to folder]/json-visualize-laravel```
 
-```sudo chown -R www-data:www-data /var/www/html/example```
+```sudo chown -R www-data:www-data [path to folder]/json-visualize-laravel```
 
 
 Setup auth:
